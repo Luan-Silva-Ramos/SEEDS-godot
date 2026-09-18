@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://10ygl2hld7dh"
+
+[deps]
+
+files=["res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.slug.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.frame.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.fps.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.wrap.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.median.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.p90.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.max.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.wrap.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.max.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.min.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.max.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.mean.translation"]
+
+source_file="res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.csv"
+dest_files=["res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.slug.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.frame.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.fps.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.wrap.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.median.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.p90.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.max.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.wrap.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.max.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.min.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.max.translation", "res://Art Assets/Background/ambient overlay/TEMPORAL_LOOP_REPORT.mean.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

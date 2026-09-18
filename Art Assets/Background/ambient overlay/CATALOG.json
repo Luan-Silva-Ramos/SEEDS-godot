@@ -1,0 +1,40 @@
+[
+  {
+    "index": 1,
+    "slug": "low_fog",
+    "display_name": "Low Fog",
+    "category": "Fog & Mist",
+    "recommended_blend": "Alpha",
+    "recommended_layer": "Foreground",
+    "default_opacity": 0.8,
+    "recommended_background": "Dark or mid-tone",
+    "generator": "fog_low",
+    "sampler": true,
+    "frame_count": 24,
+    "fps": 12,
+    "duration_seconds": 2.0,
+    "master_folder": "PNG_1280x720/01_low_fog",
+    "half_folder": "PNG_640x360/01_low_fog",
+    "sprite_sheet": "SPRITESHEETS_640x360/01_low_fog_sheet_6x4.png",
+    "gif_preview": "GIF_PREVIEWS_480x270/01_low_fog_preview.gif"
+  },
+  {
+    "index": 5,
+    "slug": "heavy_rain",
+    "display_name": "Heavy Rain",
+    "category": "Weather",
+    "recommended_blend": "Alpha / Screen",
+    "recommended_layer": "Foreground",
+    "default_opacity": 0.65,
+    "recommended_background": "Dark or mid-tone",
+    "generator": "rain",
+    "sampler": true,
+    "frame_count": 24,
+    "fps": 12,
+    "duration_seconds": 2.0,
+    "master_folder": "PNG_1280x720/05_heavy_rain",
+    "half_folder": "PNG_640x360/05_heavy_rain",
+    "sprite_sheet": "SPRITESHEETS_640x360/05_heavy_rain_sheet_6x4.png",
+    "gif_preview": "GIF_PREVIEWS_480x270/05_heavy_rain_preview.gif"
+  }
+]

@@ -1,0 +1,3 @@
+index,slug,display_name,category,recommended_blend,recommended_layer,default_opacity,recommended_background,generator,sampler,frame_count,fps,duration_seconds,master_folder,half_folder,sprite_sheet,gif_preview
+1,low_fog,Low Fog,Fog & Mist,Alpha,Foreground,0.8,Dark or mid-tone,fog_low,True,24,12,2.0,PNG_1280x720/01_low_fog,PNG_640x360/01_low_fog,SPRITESHEETS_640x360/01_low_fog_sheet_6x4.png,GIF_PREVIEWS_480x270/01_low_fog_preview.gif
+5,heavy_rain,Heavy Rain,Weather,Alpha / Screen,Foreground,0.65,Dark or mid-tone,rain,True,24,12,2.0,PNG_1280x720/05_heavy_rain,PNG_640x360/05_heavy_rain,SPRITESHEETS_640x360/05_heavy_rain_sheet_6x4.png,GIF_PREVIEWS_480x270/05_heavy_rain_preview.gif

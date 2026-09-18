@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://deyujpylf4gbi"
+
+[deps]
+
+files=["res://Art Assets/Background/ambient overlay/CATALOG.slug.translation", "res://Art Assets/Background/ambient overlay/CATALOG.display.translation", "res://Art Assets/Background/ambient overlay/CATALOG.category.translation", "res://Art Assets/Background/ambient overlay/CATALOG.recommended.translation", "res://Art Assets/Background/ambient overlay/CATALOG.recommended.translation", "res://Art Assets/Background/ambient overlay/CATALOG.default.translation", "res://Art Assets/Background/ambient overlay/CATALOG.recommended.translation", "res://Art Assets/Background/ambient overlay/CATALOG.generator.translation", "res://Art Assets/Background/ambient overlay/CATALOG.sampler.translation", "res://Art Assets/Background/ambient overlay/CATALOG.frame.translation", "res://Art Assets/Background/ambient overlay/CATALOG.fps.translation", "res://Art Assets/Background/ambient overlay/CATALOG.duration.translation", "res://Art Assets/Background/ambient overlay/CATALOG.master.translation", "res://Art Assets/Background/ambient overlay/CATALOG.half.translation", "res://Art Assets/Background/ambient overlay/CATALOG.sprite.translation", "res://Art Assets/Background/ambient overlay/CATALOG.gif.translation"]
+
+source_file="res://Art Assets/Background/ambient overlay/CATALOG.csv"
+dest_files=["res://Art Assets/Background/ambient overlay/CATALOG.slug.translation", "res://Art Assets/Background/ambient overlay/CATALOG.display.translation", "res://Art Assets/Background/ambient overlay/CATALOG.category.translation", "res://Art Assets/Background/ambient overlay/CATALOG.recommended.translation", "res://Art Assets/Background/ambient overlay/CATALOG.recommended.translation", "res://Art Assets/Background/ambient overlay/CATALOG.default.translation", "res://Art Assets/Background/ambient overlay/CATALOG.recommended.translation", "res://Art Assets/Background/ambient overlay/CATALOG.generator.translation", "res://Art Assets/Background/ambient overlay/CATALOG.sampler.translation", "res://Art Assets/Background/ambient overlay/CATALOG.frame.translation", "res://Art Assets/Background/ambient overlay/CATALOG.fps.translation", "res://Art Assets/Background/ambient overlay/CATALOG.duration.translation", "res://Art Assets/Background/ambient overlay/CATALOG.master.translation", "res://Art Assets/Background/ambient overlay/CATALOG.half.translation", "res://Art Assets/Background/ambient overlay/CATALOG.sprite.translation", "res://Art Assets/Background/ambient overlay/CATALOG.gif.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true
